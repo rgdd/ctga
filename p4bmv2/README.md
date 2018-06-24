@@ -58,7 +58,10 @@ Received frame: 314 bytes.
 
 Similarly, you could try sending fragmented STHs using ``send-sth.py --frag``.
 
-### Future work
+## Future work
 * IPv6
 * Parser errors
 * Better probabilistic filtering for fragments
+
+## Licence
+Apache 2.0

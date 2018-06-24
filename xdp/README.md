@@ -44,3 +44,6 @@ MAC address.
 * IPv6
 * Fix IPv4 fragment parsing shortcut
 * Better probabilistic filtering for fragments
+
+## Licence
+GPLv2

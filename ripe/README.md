@@ -38,3 +38,6 @@ We used REST APIs to obtain
   [CAIDA's largest AS rank](http://as-rank.caida.org/api/v1).
 Although these data sets can be fetched again by setting `refresh=True` in our
 scripts, the results may differ unless the already provided snapshots are used.
+
+## Licence
+Apache 2.0
