@@ -26,7 +26,7 @@ and XDP, showing that up to 10 Gbps line speed can be achieved on two different
 hardware targets.
 
 Further details on the estimated impact of deployment and our proof-of-concept
-implementations can be found in the `ripe`, `p4bm2` and `xdp` directories.
+implementations can be found in the `ripe`, `p4bmv2` and `xdp` directories.
 
 ## Paper
 Coming soon
