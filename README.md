@@ -29,7 +29,7 @@ Further details on the estimated impact of deployment and our proof-of-concept
 implementations can be found in the `ripe`, `p4bmv2` and `xdp` directories.
 
 ## Paper
-Coming soon
+[https://arxiv.org/pdf/1806.08817.pdf](https://arxiv.org/pdf/1806.08817.pdf)
 
 ## Licence
 Specified in the respective subdirectories separately
